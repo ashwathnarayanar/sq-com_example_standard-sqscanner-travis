@@ -1,0 +1,1 @@
+# sq-com_example_standard-sqscanner-travis
